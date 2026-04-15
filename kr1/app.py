@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse, JSONResponse
 from pydantic import ValidationError
 from pydantic import BaseModel
-import models
+import kr1.models as models
 
 app = FastAPI()
 
