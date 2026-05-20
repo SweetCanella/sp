@@ -1,0 +1,6 @@
+kr3/doc/
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
