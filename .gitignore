@@ -1,4 +1,5 @@
 kr3/doc/
+kr4/doc/
 .env
 __pycache__/
 *.pyc
